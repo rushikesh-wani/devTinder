@@ -1,0 +1,3 @@
+const JWT_SECRET_KEY = "DEV@TINDER%505%TRY%NOT%TO%HACK";
+
+module.exports = { JWT_SECRET_KEY };
